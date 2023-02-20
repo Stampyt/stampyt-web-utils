@@ -1,4 +1,4 @@
-function greeting(str) {
+function greeting(str: string): string {
   return `Hello boys : ${str}`;
 }
 
