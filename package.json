@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/stampyt/stampyt-web-utils.git"
   },
+  "types": "index.d.ts",
   "keywords": [],
   "author": "",
   "license": "ISC",
